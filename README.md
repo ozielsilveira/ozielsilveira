@@ -14,7 +14,7 @@ I am always seeking to enhance my technical skills, focusing on scalable and eff
 
 - **Languages**: C#, Node.js, TypeScript  
 - **Frameworks**: .NET ^8, NestJS, React.js  
-- **Databases**: MySQL, SQL Server, Prisma  
+- **Databases**: MySQL, SQL Server, PL/SQL, MongoDB  
 - **DevOps**: Docker, Jenkins, CI/CD, AWS  
 - **Others**: Prisma, TailwindCSS, Figma  
 
