@@ -8,6 +8,53 @@ I am always seeking to enhance my technical skills, focusing on scalable and eff
 
 ---
 
+### ⚙️ Technologies & Tools
+
+- **Languages**: C#, Java, Node.js, TypeScript, Kotlin  
+- **Frameworks**: .NET 8, NestJS, React.js, Angular.js, Vue.js  
+- **Databases**: SQL Server, PostgreSQL, MongoDB, PL/SQL  
+- **Cloud & DevOps**: AWS (S3, EC2, Route53), Azure, Docker, Jenkins, CI/CD  
+- **Others**: Prisma, Kafka, Wildfly, TailwindCSS, Figma  
+
+---
+
+### 📊 GitHub Stats
+
+![Oziel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozielsilveira&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozielsilveira&layout=compact&theme=dark)
+
+---
+
+### 🌟 Skills & Competencies
+
+- Proactivity and assertive decision-making  
+- Leadership and team management  
+- Teamwork and effective communication  
+- Adaptability and continuous learning  
+- Problem-solving and critical thinking  
+
+---
+
+### 🎓 Education
+
+#### **Bachelor's Degree in Software Engineering**
+**UNI SATC**  
+**February 2021 - Present**  
+- Integrated Project in Artificial Intelligence: Google Cloud Engine  
+- Backend: Java Spring and Node.js  
+- Data Engineering: Azure Data Lake  
+- Frontend: React.js, Angular.js, Vue.js  
+- Mobile: React Native and Kotlin
+
+#### **Technical Course in Informatics**
+**SATC Educação**  
+**February 2017 - December 2018**  
+- Programming logic, web development (HTML, CSS, JS)  
+- Embedded systems with Delphi
+
+---
+
 ### 🚀 Professional Experience
 
 #### **ACT Digital** | Back-End Developer
@@ -36,53 +83,6 @@ I am always seeking to enhance my technical skills, focusing on scalable and eff
 **February 2019 - June 2021**  
 - Developed and maintained applications for the agro-industrial sector.  
 - Worked with technologies like **.NET**, **SQL Server**, and web integrations.
-
----
-
-### ⚙️ Technologies & Tools
-
-- **Languages**: C#, Java, Node.js, TypeScript, Kotlin  
-- **Frameworks**: .NET 8, NestJS, React.js, Angular.js, Vue.js  
-- **Databases**: SQL Server, PostgreSQL, MongoDB, PL/SQL  
-- **Cloud & DevOps**: AWS (S3, EC2, Route53), Azure, Docker, Jenkins, CI/CD  
-- **Others**: Prisma, Kafka, Wildfly, TailwindCSS, Figma  
-
----
-
-### 📊 GitHub Stats
-
-![Oziel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozielsilveira&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozielsilveira&layout=compact&theme=dark)
-
----
-
-### 🎓 Education
-
-#### **Bachelor's Degree in Software Engineering**
-**UNI SATC**  
-**February 2021 - Present**  
-- Integrated Project in Artificial Intelligence: Google Cloud Engine  
-- Backend: Java Spring and Node.js  
-- Data Engineering: Azure Data Lake  
-- Frontend: React.js, Angular.js, Vue.js  
-- Mobile: React Native and Kotlin
-
-#### **Technical Course in Informatics**
-**SATC Educação**  
-**February 2017 - December 2018**  
-- Programming logic, web development (HTML, CSS, JS)  
-- Embedded systems with Delphi
-
----
-
-### 🌟 Skills & Competencies
-
-- Proactivity and assertive decision-making  
-- Leadership and team management  
-- Teamwork and effective communication  
-- Adaptability and continuous learning  
-- Problem-solving and critical thinking  
 
 ---
 
